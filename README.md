@@ -2,6 +2,10 @@
 
 `minikube dashboard --url`
 
+## 
+
+`kubectl apply -f ./filename.yml`
+`kubect delete pod posts`
 ## ERROR PULLING LOCAL IMAGE
 
 [Solved](https://levelup.gitconnected.com/two-easy-ways-to-use-local-docker-images-in-minikube-cd4dcb1a5379)
